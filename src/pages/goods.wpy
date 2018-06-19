@@ -1,0 +1,26 @@
+<script>
+import wepy from 'wepy';
+
+export default class Goods extends wepy.page {
+    config = {};
+    components = {};
+
+    data = {};
+    methods = {};
+
+    events = {};
+    onLoad() {};
+    // Other properties
+}
+
+</script>
+
+
+<template lang="wxml">
+    <view>
+      好货
+    </view>
+</template>
+
+<style lang="scss">
+</style>

@@ -1,0 +1,13 @@
+{
+  "description": "网红星球小程序",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx8a93a4717967facf",
+  "projectname": "test_project_01",
+  "miniprogramRoot": "./dist"
+}
